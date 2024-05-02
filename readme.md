@@ -1,0 +1,1 @@
+This challenge - I learned that I need to pay a lot closer attention to vertical alignment. Also, I learned something about GitHub and image linking. I decided to leave my errors as they were when I actually submitted my design. I can go back this way and see where I was on each challenge.
